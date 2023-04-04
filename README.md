@@ -1,6 +1,6 @@
-### The EXCEL ❤️‍🔥
+# The EXCEL ❤️‍🔥
 
-**`Software Engineer with an Edge`**
+##  **`Software Engineer with an Edge`**
 
 #
 
@@ -9,7 +9,7 @@ I'll keep this short only because it's a read-me file, if you want a full or bri
 I shuffle between front and back end engineering, but my interest mainly lies with **Back-End**
 Why? Cause centering a div is waaaay too much work, i'd rather prefer to make an Api-Call or think about the Computational Logic💀
 
-### ♨ Language and Tools i mostly use
+# 📚 Languages, Frameworks and Libraries
 
 <img align="left" alt="javascript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="typescript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
@@ -33,6 +33,19 @@ Why? Cause centering a div is waaaay too much work, i'd rather prefer to make an
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theseventhgod&show_icons=true&locale=en&layout=compact" alt="theseventhgod github stats" />| <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theseventhgod&" alt="theseventhgod" /> |
 | ------------- | ------------- |
+
+ # 💬 Social
+   <div>
+      <a target="_blank" href="https://twitter.com/exc3lOg">
+         <img alt="Twitter - xan_ik" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+      </a>
+   
+   <a target="_blank" href="https://www.linkedin.com/in/oluwatobiloba-excel-5b50a0202/">
+         <img alt="LinkedIn - Oluwatobiloba" src="https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+      </a>
+   
+   
+   </div>
 
 
    
