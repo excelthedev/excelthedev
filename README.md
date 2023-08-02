@@ -31,7 +31,7 @@
 
 #
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=excelthedev&show_icons=true&locale=en&layout=compact" alt="excelthedev github stats" />| <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=excelthedev&" alt="excelthedev" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=excelthedev&show_icons=true&locale=en&layout=compact" alt="excelthedev github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api?username=excelthedev&show_icons=true&include_all_commits=true&hide_border=true" alt="excelthedev Github Stats" /> |
 | ------------- | ------------- |
 
  # 💬 Social
