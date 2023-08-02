@@ -31,7 +31,7 @@
 
 #
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theseventhgod&show_icons=true&locale=en&layout=compact" alt="theseventhgod github stats" />| <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theseventhgod&" alt="theseventhgod" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=excelthedev&show_icons=true&locale=en&layout=compact" alt="excelthedev github stats" />| <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=excelthedev&" alt="excelthedev" /> |
 | ------------- | ------------- |
 
  # 💬 Social
@@ -57,7 +57,7 @@
           
 
 <!--
-**theseventhgod/theseventhgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**excelthedev/excelthedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
