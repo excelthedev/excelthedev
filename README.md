@@ -2,7 +2,18 @@
 
 ##  **`Software Engineer with an Edge`**
 
-#
+ # 💬 Social
+   <div>
+      <a target="_blank" href="https://twitter.com/exc3lOg">
+         <img alt="Twitter - xan_ik" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+      </a>
+   
+   <a target="_blank" href="https://www.linkedin.com/in/oluwatobiloba-excel-5b50a0202/">
+         <img alt="LinkedIn - Oluwatobiloba" src="https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+      </a>
+   
+   
+   </div>
 
 ### I'll keep this short only because it's a read-me file, if you want a full or brief profile of me, your best bet is to reach out via email or a quick text on linkedIn # or twitter🙊 and of course, i'll respond. I promise💙.
 
@@ -34,18 +45,7 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=excelthedev&show_icons=true&locale=en&layout=compact" alt="excelthedev github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api?username=excelthedev&show_icons=true&include_all_commits=true&hide_border=true" alt="excelthedev Github Stats" /> |
 | ------------- | ------------- |
 
- # 💬 Social
-   <div>
-      <a target="_blank" href="https://twitter.com/exc3lOg">
-         <img alt="Twitter - xan_ik" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
-      </a>
-   
-   <a target="_blank" href="https://www.linkedin.com/in/oluwatobiloba-excel-5b50a0202/">
-         <img alt="LinkedIn - Oluwatobiloba" src="https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
-      </a>
-   
-   
-   </div>
+
 
 
    
