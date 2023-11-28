@@ -15,10 +15,12 @@
    
    </div>
 
-### I'll keep this short only because it's a read-me file, if you want a full or brief profile of me, your best bet is to reach out via email or a quick text on linkedIn # or twitter🙊 and of course, i'll respond. I promise💙.
+**I'll keep this short only because it's a read-me file, if you want a full or brief profile of me, your best bet is to reach out via email or a quick text on linkedIn # or twitter🙊 and of course, i'll respond. I promise💙.**
+**I shuffle between front and back end engineering, but my interest mainly lies with **Back-End***
+**Why? Cause centering a div is waaaay too much work, i'd rather prefer to make an Api-Call or think about the Computational Logic💀.**
 
-### I shuffle between front and back end engineering, but my interest mainly lies with **Back-End**
-### Why? Cause centering a div is waaaay too much work, i'd rather prefer to make an Api-Call or think about the Computational Logic💀.
+### 
+### 
 
 # 📚 Languages, Frameworks and Libraries
 
