@@ -1,4 +1,4 @@
-# Oluwatobiloba EXCEL ❤️‍🔥
+# Excel ❤️‍🔥
 
 ##  **`Software Engineer with an Edge`**
 
