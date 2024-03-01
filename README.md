@@ -4,9 +4,7 @@
 
  # 💬 Social
    <div>
-      <a target="_blank" href="https://twitter.com/exc3lOg">
-         <img alt="Twitter - xan_ik" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
-      </a>
+     
    
    <a target="_blank" href="https://www.linkedin.com/in/oluwatobiloba-excel-5b50a0202/">
          <img alt="LinkedIn - Oluwatobiloba" src="https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
