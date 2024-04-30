@@ -13,7 +13,7 @@
    
    </div>
 
-**I'll keep this short only because it's a read-me file, if you want a full or brief profile of me, your best bet is to reach out via email or a quick text on linkedIn # or twitter🙊 and of course, i'll respond. I promise💙.**
+**Love building things, feel free to reach out via email or a quick text on linkedIn # or twitter🙊 and of course, i'll respond. I promise💙.**
 **I shuffle between front and back end engineering, but my interest mainly lies with **Solving Problems***
 **Why? Cause regardless of whatever end the issue is, can i fix the problem, YES I CAN💀.**
 
